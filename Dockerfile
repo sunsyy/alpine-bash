@@ -6,3 +6,5 @@ RUN apk add --no-cache --update-cache bash
 
 CMD ["/bin/bash"]
 
+
+
